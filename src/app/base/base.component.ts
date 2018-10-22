@@ -3,7 +3,7 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-base',
-  template: `<span>NO UI TO BE FOUND HERE!</span>`,
+  template: `NO UI TO BE FOUND HERE!`,
   styleUrls: ['./base.component.css']
 })
 export class BaseComponent implements OnInit {
